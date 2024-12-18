@@ -41,19 +41,7 @@ public class Auth2APITesting {
 		.get("https://rahulshettyacademy.com/getCourse.php").asString();
 		System.out.println(Response);
 		
-		
-		//******************************** Changes *********************
-		
-		System.out.println("Ganesh Has changed somthing");
-
-		System.out.println("hegadru madi conflicts barbeku");
-
-
-		
-		System.out.println("Ganesh Has changed somthing");
-		System.out.println("kiran Has changed somthing");
-		System.out.println("Ganesh Has changed somthing");
-		System.out.println("kiran Has changed somthing");
+	
 		
 		
 		
